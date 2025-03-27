@@ -38,7 +38,7 @@ This project helps to:
 ## 🤝 Connect With Me  
 If you're interested in SQL, data analysis, or financial insights, let’s connect!  
 📩 **LinkedIn:** www.linkedin.com/in/kehinde-ojo-86b61b124(#)  
-📁 **More Projects:** https://github.com/KehindeOjo/KehindeOjo(#)  
+📁 **More Projects:** https://github.com/KehindeOjo(#)  
 
 ---
 
